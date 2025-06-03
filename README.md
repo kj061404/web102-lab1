@@ -11,6 +11,7 @@ To run this app locally, follow these steps:
 3. Navigate to the project directory.
 4. Run `npm install` in the terminal to install the required dependencies.
 5. Run `npm run dev` in the terminal to run the application in locally.
+6. Open your browser and navigate to `http://localhost:5173` to view the app.
 
 ## Image of the final app
 
