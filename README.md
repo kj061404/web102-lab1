@@ -9,8 +9,8 @@ To run this app locally, follow these steps:
 1. Clone this repo to your local machine.
 2. Open the project in your code editor of choice.
 3. Navigate to the project directory.
-4. Run `npm install` in the terminalto install the required dependencies.
-5. Run `npm run dev` in the terminal labto run the application in locally.
+4. Run `npm install` in the terminal to install the required dependencies.
+5. Run `npm run dev` in the terminal to run the application in locally.
 
 ## Image of the final app
 
