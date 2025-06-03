@@ -18,12 +18,6 @@ Here's a image of the app in action:
 
 <img src='/public/lab1.png' title='App in action' alt='App in action'>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## License
 
